@@ -1,2 +1,3 @@
 # MasterThesis2024
-Repository for all materials used during the experiments of the Master's Thesis
+
+This repository contains all necessary materials used to conducts the experiments throughout the thesis.
