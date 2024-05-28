@@ -1,4 +1,4 @@
-# MasterThesis2024
+# Master Thesis 2024
 
 This repository contains all the necessary materials for conducting the experiments and generating the performance metrics throughout the thesis. The repository contains folders for the first and third BIE. For the second BIE, no code was used as solutions were only pasted in empty '.md' files such that they could be checked by the Markdownlint tool (https://github.com/DavidAnson/markdownlint.git)
 
