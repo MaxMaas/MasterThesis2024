@@ -7,16 +7,17 @@ For the first BIE, the only code necessary was to calculate the BERTScore metric
 - text_evaluation.ipynb
 
 ## BIE 3:
-For the third BIE, the code was assessed. The folder, therefore, contains five .ipynb files and one .db file:
+For the third BIE, the code was assessed. The folder, therefore, contains five .ipynb files:
 - pipeline_1.ipynb
 - pipeline_2.ipynb
 - pipeline_3.ipynb
 - pipeline_4.ipynb
 - pipeline_5.ipynb
-- mimic4.db
 
 
-Each pipeline notebook relates to the specific use case as described in Chapter 3, 'Methodology' of the thesis. Furthermore, the folder contains the file 'mimic4.db', the SQLite database version of the MIMIC-IV dataset. The dataset itself can be accessed via https://github.com/MIT-LCP/mimic-code.git.
+Each pipeline notebook relates to the specific use case as described in Chapter 3, 'Methodology' of the thesis. 
+
+Furthermore, due to the size of the mimic4.db dataset, this could not be included in this repository. Therefore, the dataset itself, as well as the files to convert it to an SQLite database, can be accessed via https://github.com/MIT-LCP/mimic-code.git.
 
 
 
